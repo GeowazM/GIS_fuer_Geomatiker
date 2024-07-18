@@ -24,5 +24,7 @@ Mit dieser Übung verfolgen wir den klassischen Prozess eines Bebauungsplans (BP
 
 </br>
 
-## So (oder ähnlich) sieht's am Ende aus
-![](bodenschaetze_bw_map.png)
+## Abbildung des Bebauungsplans (kurz BPlna)
+![](bbplan_plochingen_screenshot.png)
+
+
