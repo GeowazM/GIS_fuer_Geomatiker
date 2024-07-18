@@ -1,4 +1,4 @@
-# GIS für Geomatikerinnen & Geomatiker
+# 🗺 GIS für Geomatikerinnen & Geomatiker
 
 
 ## Lernziele
