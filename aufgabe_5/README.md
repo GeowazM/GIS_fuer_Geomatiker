@@ -22,3 +22,7 @@ Mit dieser Übung verfolgen wir den klassischen Prozess eines Bebauungsplans (BP
 ### 🕗 Dauer:
 ~ 60 bis 120 min
 
+</br>
+
+## So (oder ähnlich) sieht's am Ende aus
+![](bodenschaetze_bw_map.png)
