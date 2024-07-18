@@ -28,7 +28,7 @@ Anhand der Übungen lernt ihr,**wie** ihr praktisch vorgeht. Ihr versteht **waru
 | 1         	| [Layerkonzept, Attributdaten](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_01)         |
 | 2         	| [Eine Karte erstellen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02)         |
 | 3         	| [Vektor - Mit Attributtabellen arbeiten](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_03)         |
-| 4         	| [Vektor - Räumliche Abfrage nutzen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_04)         |
+| 4         	| [Vektor - Räumliche Abfrage nutzen](https://github.com/GeowazM/GIS_fuer_Geomatiker/tree/main/aufgabe_5)         |
 | 5         	| [Georeferenzieren & Digitalisieren](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_05)         |
 | 6         	| [Raster - Klassifizierung von Sentinel-2 Daten & 3D Visualisierungen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_06)         |
 | 7         	| [Raster - Digitale Geländemodelle nutzen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_07)       |
@@ -40,5 +40,5 @@ Anhand der Übungen lernt ihr,**wie** ihr praktisch vorgeht. Ihr versteht **waru
 
 
 **WICHTIG:**
-* Die Abgabe des Abschlussprojekts erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit allen Layern öffnen kann. 
-* Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
+* Sammel deine Ergebnisse (Karten & Abbildungen). 
+* Versende deine Ergebnisse per Mail.
