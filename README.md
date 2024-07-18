@@ -37,7 +37,6 @@ Anhand der Übungen lernt ihr,**wie** ihr praktisch vorgeht. Ihr versteht **waru
 | 7         	| ⛰ [Raster - Digitale Geländemodelle nutzen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_07)       |
 | 8         	| 🧭 [Räumliche Interpolation durchführen](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_08)         |
 | 9         	| 🚄 [Prozesse automatisieren](https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_09)         |
-|          	| Vorbereitung Abschlussprojekt         |
 
 ---
 
