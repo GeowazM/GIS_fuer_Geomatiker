@@ -10,7 +10,7 @@ Wir haben den Bebauungsplan als PDF und wollen diesen mit dem sogenannten georef
 </br>
 
 Bebauungsplan Mausöhrlen 1. Änderung - [Quelle](https://www.landkreis-esslingen.de/start/service/geoinformation.html)
-- (Hier kannst du den Bebauungsplan herunterladen)[GIS_fuer_Geomatiker/aufgabe_5/daten/1735_mausoehrlen_aenderung1_gesamtplan.pdf]
+- [Hier kannst du den Bebauungsplan herunterladen](GIS_fuer_Geomatiker/aufgabe_5/daten/1735_mausoehrlen_aenderung1_gesamtplan.pdf)
 
 </br>
 
