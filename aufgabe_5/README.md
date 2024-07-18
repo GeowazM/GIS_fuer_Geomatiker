@@ -22,6 +22,12 @@ Mit dieser Übung verfolgen wir den klassischen Prozess eines Bebauungsplans (BP
 ### 🕗 Dauer:
 ~ 60 bis 120 min
 
+### Die Daten findest du [hier]()
+
+### DIe Aufgaben findest du [hier](https://github.com/GeowazM/GIS_fuer_Geomatiker/blob/main/aufgabe_5/ArcGIS-Pro_Bebauungsplaene_georeferenzieren_und_Geltungsbereiche_erfassen.pdf)
+
+
+
 </br>
 
 ## Abbildung des Bebauungsplans (kurz BPlan)
