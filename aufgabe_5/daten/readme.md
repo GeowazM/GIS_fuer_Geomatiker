@@ -11,5 +11,6 @@
 - WMS-Link: https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ALKIS_Basis_transparent?
 
 [Bebauungsplan Mausöhrlen 1. Änderung]()
+- (Hier kannst du den Bebauungsplan herunterladen)(GIS_fuer_Geomatiker/aufgabe_5/daten/1735_mausoehrlen_aenderung1_gesamtplan.pdf)
 
 </br>
