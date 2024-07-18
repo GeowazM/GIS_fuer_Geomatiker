@@ -3,7 +3,7 @@
 </br>
 
 ## 🎯 Lernziele
-* Übertragung von Konzepten aus der Vorlesung in praktische Abläufe
+* Übertragung von Konzepten der Berufsschule in praktische Abläufe
 * Betrachtung des Workflows von GIS-Analysen (EVAP ohne Erhebung (E))
   * Datenmanagement (V)
   * Datenanalyse (A)
