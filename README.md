@@ -7,7 +7,7 @@
   * Datenmanagement (V)
   * Datenanalyse (A)
   * Kartenerstellung (P)
-* Einführung in ein Desktop GIS-System: Quantum GIS (open source)
+* Einführung in das Desktop GIS-System: ArcGIS Pro
 
 
 ## Überblick über den Ablauf und die Inhalte der Übungen
