@@ -2,8 +2,8 @@
 
 
 ### Zur Georeferenzierung unseres Bebauungsplanes nutzen wir zwei WMS-Layer
-- den ALKIS (Amtliches Liegenschaftskataster Informationssystem) des Landesamts für Geoinformation und Landentwicklung Baden-Württemberg (LGL-BW)
-- OpenStreetMap Standard Layer (OSM)
+- den Amtliches Liegenschaftskataster Informationssystem kurz **ALKIS** des Landesamts für Geoinformation und Landentwicklung Baden-Württemberg (LGL-BW)
+- OpenStreetMap Standard Layer kurz **OSM**
 
 </br>
 
