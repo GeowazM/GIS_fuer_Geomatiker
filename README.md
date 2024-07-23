@@ -41,6 +41,5 @@ Anhand der Übungen lernt ihr,**wie** ihr praktisch vorgeht. Ihr versteht **waru
 ---
 
 
-**WICHTIG ❗**
+**WICHTIG**
 * Sammel deine Ergebnisse (Karten & Abbildungen). 
-* Versende deine Ergebnisse per Mail.
